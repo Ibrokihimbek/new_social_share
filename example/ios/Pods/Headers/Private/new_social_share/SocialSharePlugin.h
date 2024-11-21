@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/new_social_share/ios/Classes/SocialSharePlugin.h
