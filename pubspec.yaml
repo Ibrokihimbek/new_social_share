@@ -1,6 +1,7 @@
 name: new_social_share
 description: Wide variety of sharing options you'll need to share directly to certain well-known apps.
 version: 2.3.1
+homepage: https://github.com/Ibrokihimbek/new_social_share
 
 environment:
   sdk: ">=3.5.0 <4.0.0"
